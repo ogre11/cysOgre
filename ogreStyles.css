@@ -9,3 +9,11 @@ div#profile_Trophies h2 {
 div#mainContent > h1:first-child {
     display: none;
 }
+
+div#profile_Sidebar {
+    margin-top: 8px;	
+}
+
+div#profile_Text > img:first-child {
+    margin-top: 10px;	
+}
