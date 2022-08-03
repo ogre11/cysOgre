@@ -1,3 +1,6 @@
 div#profile_Stories {
 	display: none;
 }
+div#profile_Trophies h2 {
+	display: none;
+}
