@@ -2,6 +2,11 @@ div#profile_Stories {
 	display: none;
 }
 div#profile_Trophies h2 {
-	display: none;
-	visibility: hidden;
+    color: #ededed;
+    text-align: center;
+    background-color: #c04039 !important;
+    border: 1px solid #861d18 !important;
+    margin: 15px -20px 5px !important;
+    box-shadow: 0 3px 8px rgb(0 0 0 / 40%);
+    position: relative;
 }
