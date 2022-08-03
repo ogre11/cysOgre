@@ -5,3 +5,7 @@ div#profile_Stories {
 div#profile_Trophies h2 {
     display: none;
 }
+
+div#mainContent h1 {
+    display: none;
+}
