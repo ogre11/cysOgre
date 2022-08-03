@@ -3,6 +3,8 @@ div#profile_Stories {
 }
 
 div#profile_Trophies h2 {
+	dislpay: none;
+	visibility: hidden;
     color: #ededed;
     text-align: center;
     background-color: #c04039 !important;
