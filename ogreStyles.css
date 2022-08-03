@@ -6,6 +6,6 @@ div#profile_Trophies h2 {
     display: none;
 }
 
-div#mainContent h1 {
+div#mainContent h1:first-child {
     display: none;
 }
