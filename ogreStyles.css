@@ -3,4 +3,5 @@ div#profile_Stories {
 }
 div#profile_Trophies h2 {
 	display: none;
+	visibility: hidden;
 }
